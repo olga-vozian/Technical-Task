@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Document>
+    <FileAppHdr>
+        <NbOfBtchs>1</NbOfBtchs>
+        <SttlmCycl>1</SttlmCycl>
+    </FileAppHdr>
+    <AppHdr>
+        <FinInstnId>
+            <BICFI>DABASESXSEK</BICFI>
+        </FinInstnId>
+        <BizMsgIdr>0skYMOPVABci6MhOJkO0skYMOPVABci6MhO</BizMsgIdr>
+        <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+        <CreDt>2023-04-07T11:50:59Z</CreDt>
+    </AppHdr>
+    <CreditTransfer>
+        <FIToFICstmrCdtTrf>
+            <GrpHdr>
+                <MsgId>M20230407DABASESXBI7eSZWYF8VfeXdBtY</MsgId>
+                <CreDtTm>2023-04-07T14:50:59+03:00</CreDtTm>
+                <NbOfTxs>10</NbOfTxs>
+                <TtlIntrBkSttlmAmt>10.0</TtlIntrBkSttlmAmt>
+                <IntrBkSttlmDt>2023-04-07</IntrBkSttlmDt>
+                <SttlmInf>
+                    <SttlmMtd>CLRG</SttlmMtd>
+                    <ClrSys>
+                        <Cd>B27</Cd>
+                    </ClrSys>
+                </SttlmInf>
+            </GrpHdr>
+            <CdtTrfTxInf>
+                <PmtId>
+                    <InstrId>New value for InstrId with index 1</InstrId>
+                    <EndToEndId>New value for EndToEndId with index 1</EndToEndId>
+                    <TxId>New value for TxId with index 1</TxId>
+                    <ClrSysRef>New value for ClrSysRef with index 1</ClrSysRef>
+                </PmtId>
+            </CdtTrfTxInf>
+            <CdtTrfTxInf>
+                <PmtId>
+                    <InstrId>New value for InstrId with index 2</InstrId>
+                    <EndToEndId>New value for EndToEndId with index 2</EndToEndId>
+                    <TxId>New value for TxId with index 2</TxId>
+                    <ClrSysRef>New value for ClrSysRef with index 2</ClrSysRef>
+                </PmtId>
+            </CdtTrfTxInf>
+        </FIToFICstmrCdtTrf>
+    </CreditTransfer>
+</Document>
